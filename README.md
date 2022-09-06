@@ -31,6 +31,21 @@
 
 https://trello.com/b/NrXnbKtG/wishmatching
 
+## 실행 화면
+- 앱 로그인 화면
+<br></br>
+<img src="https://user-images.githubusercontent.com/71515740/188694487-cc5a1187-6463-4e31-a988-071029228412.jpg" width="30%" height="30%"></img>
+<br></br>
+<br></br>
+- 앱 동작 화면
+<br></br>
+<img src="https://user-images.githubusercontent.com/71515740/188694562-3126c1ea-dbaa-4400-bfc9-72540c68b19b.jpg" width="30%" height="30%"></img>
+<img src="https://user-images.githubusercontent.com/71515740/188694581-e621c357-90cb-4b28-9ad0-65f589a12d69.jpg" width="30%" height="30%"></img>
+<img src="https://user-images.githubusercontent.com/71515740/188694601-fae43457-e0f2-47cc-ad8c-ce32c96251d6.jpg" width="30%" height="30%"></img>
+<img src="https://user-images.githubusercontent.com/71515740/188694633-37c42a83-1d9f-4eca-b879-1ef9038343c6.jpg" width="30%" height="30%"></img>
+<img src="https://user-images.githubusercontent.com/71515740/188694649-288eb467-1f3c-4a80-b821-11f7b59459eb.jpg" width="30%" height="30%"></img>
+
+
 ------------
 ## 팀원 구성
 
